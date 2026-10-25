@@ -11,6 +11,8 @@ Lentes de contato dentais: [lentedecontatodental.poa.br](https://www.lentedecont
 
 Instagram da clínica: [@dentistasorridere](https://www.instagram.com/dentistasorridere/)
 
+Instagram do Dr. Marcelo: [@borille](https://www.instagram.com/borille/)
+
 WhatsApp: [+55 51 3346-3277](https://wa.me/555133463277)
 
 Endereço: Rua 24 de Outubro, 1440, bairro Auxiliadora, Porto Alegre, RS. Atendimento de segunda a sexta, das 9h às 19h.
