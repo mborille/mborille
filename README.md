@@ -1,18 +1,3 @@
-## Hi there 👋
-
-<!--
-**mborille/mborille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # Marcelo Borille
 
 Cirurgião-dentista em Porto Alegre (CRO-RS 14520). Trabalho com lentes de contato dentais e laminados cerâmicos dentro do Protocolo Borille e desenvolvo ferramentas abertas de colorimetria e planejamento para odontologia estética.
@@ -22,6 +7,7 @@ Cirurgião-dentista em Porto Alegre (CRO-RS 14520). Trabalho com lentes de conta
 Clínica Sorridere: [www.sorridere.net](https://www.sorridere.net/)
 
 Lentes de contato dentais: [lentedecontatodental.poa.br](https://www.lentedecontatodental.poa.br/)
+
 
 Instagram da clínica: [@dentistasorridere](https://www.instagram.com/dentistasorridere/)
 
