@@ -54,13 +54,3 @@ Harvard Dataverse: [marcelo-borille](https://dataverse.harvard.edu/dataverse/mar
 [sobrevida-lentes](https://github.com/mborille/sobrevida-lentes): curvas de Kaplan-Meier e teste log-rank para sobrevida de lentes e laminados, no navegador. DOI: [10.6084/m9.figshare.34717038](https://doi.org/10.6084/m9.figshare.34717038).
 
 [dente3d-preparo-zonas](https://github.com/mborille/dente3d-preparo-zonas): dente 3D com preparo por zonas (esmalte, desgaste e cerâmica) no modelo tridimensional. DOI: [10.6084/m9.figshare.34717218](https://doi.org/10.6084/m9.figshare.34717218).
-
-[calculadora-preparo-zonas](https://github.com/mborille/calculadora-preparo-zonas): calculadora de desgaste por zona (cervical, médio e incisal; lobos e vales) para preparo de lentes de contato dentais e laminados. DOI: [10.6084/m9.figshare.34715292](https://doi.org/10.6084/m9.figshare.34715292).
-
-[dente3d-preparo-zonas](https://github.com/mborille/dente3d-preparo-zonas): dente 3D com preparo por zonas (esmalte, desgaste e cerâmica) no navegador.
-
-[sobrevida-lentes](https://github.com/mborille/sobrevida-lentes): curvas de Kaplan-Meier e teste log-rank para sobrevida de lentes e laminados.
-
-[tratamento-superficie-material](https://github.com/mborille/tratamento-superficie-material): passo a passo do tratamento de superfície da peça, do dente e da cimentação por material (dissilicato, feldspática, zircônia e resina).
-
-[analisador-sorriso-movimento](https://github.com/mborille/analisador-sorriso-movimento): mede abertura interlabial, largura, corredor bucal, gengiva e arco do sorriso a partir de vídeo ou fotos.
